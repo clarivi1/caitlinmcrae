@@ -1,0 +1,74 @@
+                h6 {
+                    font-size: 46px;
+                    color: white;
+                }
+                
+                h9 {
+                    color: #d95ca2;
+                }
+                
+                .piece {
+                    background-color: white;
+                }
+                
+                h3 {
+                    color: #d95ca2;
+                }
+                
+                .piece h2 {
+                    color: #763157;
+                }
+                
+                .piece h4 {
+                    color: #d95ca2;
+                }
+                
+                .center {
+                    text-align: center;
+                }
+                
+                figure.cross-image h2 {
+                    word-spacing: 5px;
+                    font-size: 40px;
+                    font-weight: 400;
+                }
+                
+                .closebtn {
+                    color: #d95ca2;
+                    font-size: 2em;
+                }
+                
+                a:hover {
+                    text-decoration: none;
+                    color: black;
+                }
+                
+                .popup {
+                    background-color: black;
+                    position: relative;
+                    transition: all 5s ease-in-out;
+                }
+                
+                .scroll {
+                    width: 150px;
+                    height: 150px;
+                    overflow: scroll;
+                }
+                
+                .img-responsive {
+                    display: block;
+                    max-width: 100%;
+                    width: 100%;
+                    height: auto;
+                }
+                
+                @media screen and (max-width: 27em) {
+                    .col-sm-3,
+                    .col-xs-6,
+                    .containers {
+                        margin-right: auto;
+                        margin-left: auto;
+                        padding-left: 15px;
+                        padding-right: 15px;
+                    }
+                }
